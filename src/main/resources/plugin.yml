@@ -1,0 +1,4 @@
+name: SteveSkyBlock
+version: '1.0-SNAPSHOT'
+main: com.steve.steveSkyBlock.SteveSkyBlock
+api-version: '1.21'
